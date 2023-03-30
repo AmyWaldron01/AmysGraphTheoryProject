@@ -32,6 +32,7 @@ now do
 code .
 ```
 and it will open the ibyn file in visual studio code. (you also may run this file using Jupyter notebook)
+Images are only displayed in Visual Studio
 
 </p>
 
