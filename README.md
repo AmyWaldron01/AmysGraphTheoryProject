@@ -32,7 +32,7 @@ now do
 code .
 ```
 and it will open the ibyn file in visual studio code. (you also may run this file using Jupyter notebook)
-Images are only displayed in Visual Studio
+Images are only displayed in Visual Studio code!!
 
 </p>
 
@@ -47,5 +47,14 @@ Images are only displayed in Visual Studio
 <p>If u run into any issues please feel free to contact me through amywaldron01@gmail.com </p>
 
 <h3>References</h3>
-<p></p>
+<p1>1.<a href="https://calcworkshop.com/trees-graphs/isomorphic-graph/">1</a>https://calcworkshop.com/trees-graphs/isomorphic-graph/" </p1> <br>
+<p1>2.<a href="https://networkx.org/documentation/stable/reference/algorithms/isomorphism.html">2</a>https://networkx.org/documentation/stable/reference/algorithms/isomorphism.html </p1><br>
+<p1>3.Used the notes on Graphs, Groups, and Isomorphisms</p1><br>
+<p1>4.<a href="https://www.canva.com">4</a>Used https://www.canva.com" to draw my graphs</p1><br>
+<p1>5.<a href="https://www.geeksforgeeks.org/graph-and-its-representations/">5</a> https://www.geeksforgeeks.org/graph-and-its-representations/ </p1><br>
+<p1>6.<a href="https://www.programiz.com/dsa/graph-adjacency-matrix">6</a> https://www.programiz.com/dsa/graph-adjacency-matrix </p1><br>
+<p1>7.<a href="https://www.programiz.com/dsa/graph-adjacency-list">7</a> https://www.programiz.com/dsa/graph-adjacency-list </p1><br>
+<p1>8.<a href="https://www.geeksforgeeks.org/permutation/">8 </a> https://www.geeksforgeeks.org/permutation/ </p1><br>
+<p1>9.<a href="https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/"> 9 </a>https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/ <p1><br>
+<p1>10.<a href="https://www.geeksforgeeks.org/permutation-and-combination-in-python/">10 </a>  https://www.geeksforgeeks.org/permutation-and-combination-in-python/</p1></p>
 
